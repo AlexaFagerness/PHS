@@ -1,4 +1,4 @@
-/* THEME VARIABLES */
+
 :root {
     --bg: #070712;
     --bg-elevated: #11111f;
@@ -241,5 +241,14 @@ main {
     padding: 0.6rem 1.4rem;
 }
 
+.page-content ol {
+    margin-top: 0.5rem;     
+    margin-left: 1.5rem;    
+    padding-left: 0;        
+}
+
+.page-content ol li {
+    margin-bottom: 0.25rem;
+}
 
 
